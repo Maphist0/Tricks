@@ -9,4 +9,5 @@
 ### VirtualBox
 1. [Install VirtualBox](https://www.virtualbox.org/wiki/Linux_Downloads)
 1. [Install guest addon and enable share folder](https://askubuntu.com/questions/456400#456404)
+1. [VirtualBox network](https://www.virtualbox.org/manual/ch06.html)
 
