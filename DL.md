@@ -2,6 +2,7 @@
 1. [Use specific GPU instead of all](https://github.com/keras-team/keras/issues/6031#issuecomment-289921206), 
 more information [here](http://www.acceleware.com/blog/cudavisibledevices-masking-gpus)
 1. [Plot loss and accuracy curves while training](http://block.arch.ethz.ch/blog/2016/08/dynamic-plotting-with-matplotlib/)
+1. [Show intermediate result in layer](https://stackoverflow.com/questions/41711190#41712013)
 
 # Dataset
 1. [Process CIFAR](yelangya3826850.github.io/downloads/toolbox/get_cifar100.py)
