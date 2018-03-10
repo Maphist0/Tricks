@@ -44,7 +44,7 @@
 1. [Optical Flow in OpenCV](https://www.docs.opencv.org/3.2.0/d7/d8b/tutorial_py_lucas_kanade.html).
 1. FlowNet 2.0 [caffe](https://github.com/lmb-freiburg/flownet2), [pytorch](https://github.com/NVIDIA/flownet2-pytorch) ***<<---- only work with python 2.x***. [Customized pytorch verison for python 3.5](?) (upload later).
 
-#### Video Object Segmentati
+#### Video Object Segmentation
 1. [LVO](http://lear.inrialpes.fr/research/lvo/)
 1. OSVOS [caffe](https://github.com/kmaninis/OSVOS-caffe), [pytorch](https://github.com/kmaninis/OSVOS-PyTorch), [tensorflow](https://github.com/scaelles/OSVOS-TensorFlow).
 #### Instance Segmentation
