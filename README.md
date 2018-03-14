@@ -2,6 +2,7 @@
 Summarize some tricks for various topics
 
 ## List
-1. For VNC, Ubuntu and VirtualBox installation: [VNC_Ubuntu_VM.md](https://github.com/zzpsjtu/Tricks/blob/master/VNC_Ubuntu_VM.md)
-2. Unbrick my Mi4c phone: [Unbrick_mi4c.md](https://github.com/zzpsjtu/Tricks/blob/master/Unbrick_mi4c.md)
-1. Deep learning: [DL.md](https://github.com/zzpsjtu/Tricks/blob/master/DL.md)
+1. [Related to VNC, Ubuntu and VirtualBox](https://github.com/zzpsjtu/Tricks/blob/master/VNC_Ubuntu_VM.md).
+1. [Unbrick my Mi4c phone](https://github.com/zzpsjtu/Tricks/blob/master/Unbrick_mi4c.md).
+1. [Machine learning and computer vision](https://github.com/zzpsjtu/Tricks/blob/master/DL.md).
+1. [Messy things](https://github.com/zzpsjtu/Tricks/blob/master/Messy.md).
