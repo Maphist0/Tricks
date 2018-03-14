@@ -18,3 +18,4 @@
     and put in the main directory of project.
     1. Still working on it ......
     
+1. Error ```MSVCR100.dll is missing``` and ```MSVCP100.dll is missing``` while opening TexStudio. Install VC++ 2010 from [here](https://social.technet.microsoft.com/Forums/windows/en-US/52f0bd37-9a08-41b6-bb43-fa01ef3ebc4a/msvcr100dll-is-missing?forum=w8itprogeneral)
