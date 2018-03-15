@@ -19,3 +19,14 @@
     1. Still working on it ......
     
 1. Error ```MSVCR100.dll is missing``` and ```MSVCP100.dll is missing``` while opening TexStudio. Install VC++ 2010 from [here](https://social.technet.microsoft.com/Forums/windows/en-US/52f0bd37-9a08-41b6-bb43-fa01ef3ebc4a/msvcr100dll-is-missing?forum=w8itprogeneral)
+
+
+# Windows
+## Powershell
+1. Change the execution policy to allow a rc file being loaded in each new shell (like ```~/.bashrc``` in *nix system).\
+Call:
+```PS C:\Users\user> Set-ExecutionPolicy -Scope CurrentUser```
+and enter ```REMOTESIGNED``` in the prompt. \
+More info [here](https://technet.microsoft.com/zh-CN/library/hh847748.aspx)
+1. [Setup path](https://stackoverflow.com/questions/714877)
+1. Enable [```which```](https://stackoverflow.com/questions/63805#65148)
