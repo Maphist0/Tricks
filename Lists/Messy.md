@@ -1,4 +1,4 @@
-# Latex
+## Latex
 1. How to setup environment for [SJTU Thesis Latex template](https://github.com/sjtug/SJTUThesis)
     1. Install Visual Studio Code.
     1. Install LaTex Workshop plugin.
@@ -20,9 +20,8 @@
     
 1. Error ```MSVCR100.dll is missing``` and ```MSVCP100.dll is missing``` while opening TexStudio. Install VC++ 2010 from [here](https://social.technet.microsoft.com/Forums/windows/en-US/52f0bd37-9a08-41b6-bb43-fa01ef3ebc4a/msvcr100dll-is-missing?forum=w8itprogeneral)
 
-
-# Windows
-## Powershell
+## Windows
+### Powershell
 1. Change the execution policy to allow a rc file being loaded in each new shell (like ```~/.bashrc``` in *nix system).\
 Call:
 ```PS C:\Users\user> Set-ExecutionPolicy -Scope CurrentUser```

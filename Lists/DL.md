@@ -14,7 +14,7 @@
       |:----------------- |:------------------------------------------------ |
       | pip               | ```$ pip --proxy=${proxy} install ...```         |
       | git clone         | ```$ git config --global https.proxy ${proxy}``` |
-      | git (always)      | ```$ vim ~/.gitconfig``` Then enter: <br> ```[http]``` <br> ```[https]``` <br> &nbsp;&nbsp;&nbsp;&nbsp; ```proxy = ${proxy}```                                             |
+      | git (always)      | ```$ vim ~/.gitconfig``` Then enter: <br> ```[http]``` <br> ```[https]``` <br> &nbsp;&nbsp;&nbsp;&nbsp; ```proxy = ${proxy}```|
       | wget (always)     | ```$ vim ~/.wgetrc``` Then enter: <br> ```use_proxy=yes``` <br> ```https_proxy=${proxy}``` <br> ```http_proxy=${proxy}```                                          |
       | anaconda (always) | ```$ vim ~/.condarc``` Then enter: <br> ```proxy_servers:``` <br> &nbsp;&nbsp;&nbsp;&nbsp;```http: ${proxy}``` <br> &nbsp;&nbsp;&nbsp;&nbsp;```https: ${proxy}```     |
 
