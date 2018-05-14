@@ -11,6 +11,7 @@
 1. [Install guest addon and enable share folder](https://askubuntu.com/questions/456400#456404)
 1. [VirtualBox network](https://www.virtualbox.org/manual/ch06.html)
 1. [Easier reference for VB network](https://blogs.oracle.com/scoter/networking-in-virtualbox-v2)
+1. Install Win10 in VB on Ubuntu, [mount ISO in IDE instead of SATA](https://forums.virtualbox.org/viewtopic.php?f=2&t=77173), and [disable Paravirtualization](https://superuser.com/questions/1208895/virtualbox-stuck-on-windows-logo?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa).
 
 ### Ubuntu
 1. Synchronize local time:
