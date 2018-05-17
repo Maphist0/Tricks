@@ -44,3 +44,8 @@ More info [here](https://technet.microsoft.com/zh-CN/library/hh847748.aspx)
 Check [here](http://wwwimages.adobe.com/www.adobe.com/content/dam/acom/en/devnet/rtmp/pdf/rtmp_specification_1.0.pdf) for RTMP specification.
 1. Instead of OBS, [use FFMPEG in cmd to push stream](https://github.com/arut/nginx-rtmp-module/issues/378).
 Check the [streaming guide](https://trac.ffmpeg.org/wiki/StreamingGuide#Latency).
+
+## Router
+1. [Flash NetGear NightHawk R8000 guide](http://avi.im/blag/2015/asus-wrt-merlin-on-netgear-r7000/).
+1. [Tomato for R8000](https://www.myopenrouter.com/download/tomato-firmware-shibby-netgear-r8000-initial).
+1. [Merlin for R8000](https://sourceforge.net/projects/asuswrt-merlin/files/RT-AC3200/Release/).
