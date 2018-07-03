@@ -36,6 +36,12 @@ More info [here](https://technet.microsoft.com/zh-CN/library/hh847748.aspx)
 1. [Win Server 2016 setup guide](https://docs.microsoft.com/en-us/windows-server/remote/remote-desktop-services/rds-remotefx-vgpu). \
 *Before you start: Notice that the vGPU memory is limited to less than 1GB. Some game may fail to start (e.g. FIFA 18).*
 
+### Setup proxy
+1. Setup proxy for Anaconda on Windows:
+    1. Create a .conda file by invoking ```conda config --add channels r```, [ref](https://github.com/conda/conda/issues/1757#issuecomment-152619715).
+    1. Append the ip and port number of proxy server to .condarc file. Notice both http and https is needed in the file, even if only http proxy works. [ref](https://conda.io/docs/user-guide/configuration/use-condarc.html#configure-conda-for-use-behind-a-proxy-server-proxy-servers).
+1. Setup proxy for PIP on Windows, refer to [this post](https://stackoverflow.com/questions/14149422/using-pip-behind-a-proxy#answer-16357159).
+
 ## Video Streaming
 1. Use OBS on server, setup [RTMP server](https://obsproject.com/forum/resources/how-to-set-up-your-own-private-rtmp-server-using-nginx.50/) on client, [use ffplay instead of VLC](https://www.quora.com/How-can-I-stream-a-game-to-a-friend-with-minimal-delay) for low latency. \
 An example is: `ffplay -fflags nobuffer -flags low_delay rtmp://127.0.0.1:xx/live/test`.
