@@ -29,6 +29,7 @@ and enter ```REMOTESIGNED``` in the prompt. \
 More info [here](https://technet.microsoft.com/zh-CN/library/hh847748.aspx)
 1. [Setup path](https://stackoverflow.com/questions/714877)
 1. Enable [```which```](https://stackoverflow.com/questions/63805#65148)
+1. Setup system-wise proxy in Windows. `netsh winhttp set proxy <YOUR PROXY SERVER>:<PORT>` from [here](https://social.technet.microsoft.com/Forums/windows/en-US/8baf9f43-98e8-407e-8443-a1af5b752e54/system-wide-proxy-setting-in-windows7?forum=w7itpronetworking#8702b4aa-df9b-4c37-8dd6-a41c43e6bce6).
 
 ### RemoteFX
 1. [Win Server 2012 setup guide](https://social.technet.microsoft.com/wiki/contents/articles/16652.remotefx-vgpu-setup-and-configuration-guide-for-windows-server-2012.aspx). \
